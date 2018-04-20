@@ -1,0 +1,19 @@
+#contentwrap {
+	
+    width: 80%;
+    float: left;
+    margin: 0 auto;
+
+    
+}
+
+#content {
+	height:480px;
+    background-color: #cccccc;
+    border-radius: 10px;
+    border: 1px solid #000000;
+    margin: 5px;
+    overflow:auto;
+    padding: 10px;
+    
+	}
